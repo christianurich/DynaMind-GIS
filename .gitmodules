@@ -1,0 +1,15 @@
+[submodule "DynaMind-Executable"]
+	path = DynaMind-Executable
+	url = https://github.com/iut-ibk/DynaMind-Executable.git
+[submodule "DynaMind-GDALModules"]
+	path = DynaMind-GDALModules
+	url = https://github.com/christianurich/DynaMind-GDALModules.git
+[submodule "DynaMind"]
+	path = DynaMind
+	url = https://github.com/iut-ibk/DynaMind
+[submodule "DynaMind-BasicModules"]
+	path = DynaMind-BasicModules
+	url = https://github.com/iut-ibk/DynaMind-BasicModules.git
+[submodule "DynaMind-Extensions"]
+	path = DynaMind-Extensions
+	url = https://github.com/iut-ibk/DynaMind-Extensions.git
